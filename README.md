@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @methan6427
 - 👀 I’m interested in coding,anime,and gaming.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning JAVA(data structure),HTML,CSS,PYTHON,JAVASCRIPT,SQL,C#.
 - 💞️ I’m looking to collaborate on any coding lecture to understand programing.
 - 📫 How to reach me https://solo.to/methan
 - i plan to learn javascript,html,css,react after college
