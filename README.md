@@ -1,4 +1,4 @@
-Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">, I'm [Adam]([(https://solo.to/methan)]) 
+Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">, I'm [Adam](https://solo.to/methan) 
 <br />
 <br />
 - 👀 I’m interested in coding,anime,and gaming.
