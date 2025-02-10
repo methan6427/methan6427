@@ -2,7 +2,7 @@ Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/ma
 <br />
 <br />
 - 👀 I’m interested in coding,anime,and gaming.
-- 🌱 I’m currently learning JAVA(data structure),HTML,CSS,PYTHON,JAVASCRIPT,MYSQL.
+- 🌱 I’m currently learning JAVA(Algorithm),HTML,CSS,PYTHON,JAVASCRIPT,MYSQL.
 - 💞️ I’m looking to collaborate on any coding lecture to understand programing.
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/adam-khabisa-4a9677279/)
 
