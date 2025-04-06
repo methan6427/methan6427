@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Khabisa</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">, I'm Adam Khabisa</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Frontend+Dev+%F0%9F%92%BB;React+Lover+⚛%EF%B8%8F;Game+Dev+in+Unity+%F0%9F%8E%AE;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
