@@ -46,12 +46,9 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methan6427&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=methan6427&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=methan6427&theme=tokyonight" />
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methan6427&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="methan6427" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=methan6427&show_icons=true&locale=en&theme=tokyonight" alt="methan6427" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=methan6427&theme=tokyonight" alt="methan6427" /></p>
