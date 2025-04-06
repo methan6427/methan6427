@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Frontend+Dev+%F0%9F%92%BB;React+Lover+⚛%EF%B8%8F;Game+Dev+in+Unity+%F0%9F%8E%AE;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate frontend developer from palestine 🇮🇳</h3>
+<h3 align="center">A passionate frontend developer from palestine</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=methan6427&label=Profile%20views&color=orange&style=flat-square" alt="methan6427" />
