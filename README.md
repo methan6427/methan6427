@@ -2,8 +2,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Frontend+Dev+%F0%9F%92%BB;React+Lover+⚛%EF%B8%8F;Game+Dev+in+Unity+%F0%9F%8E%AE;Always+learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
-# 💫 About Me:
-👨‍💻 I'm currently working on<br><br>⚡ High-performance frontend projects using React and TypeScript, focusing on clean UI and smooth user experience.<br><br>🤝 I'm looking to collaborate on<br><br>🚀 Frontend web apps, dashboards, and interactive visual projects where performance and design matter.<br><br>🆘 I'm looking for help with<br><br>🧠 Scaling large React apps and improving testing strategies for complex UI logic.<br><br>📚 I'm currently learning<br><br>📖 Advanced React patterns, performance optimization, and better frontend architecture practices.<br><br>💬 Ask me about<br><br>🛠️ React, TypeScript, frontend performance, canvas rendering, or structuring real-world projects.<br><br>⚡ Fun fact<br><br>🎮 I enjoy turning complex problems into simple UI solutions and optimizing things that already “work”.
+
+
+## 💫 About Me:<br>
+👨‍💻 I'm currently working on<br><br>⚡ High-performance frontend projects using React and TypeScript, focusing on clean UI and smooth user experience.<br><br>🤝 I'm looking to collaborate on<br><br> 🚀 Frontend web apps, dashboards, and interactive visual projects where performance and design matter.<br><br>🆘 I'm looking for help with<br><br>🧠 Scaling large React apps and improving testing strategies for complex UI logic.<br><br>📚 I'm currently learning<br><br>📖 Advanced React patterns, performance optimization, and better frontend architecture practices.<br><br>💬 Ask me about<br><br>🛠️ React, TypeScript, frontend performance, canvas rendering, or structuring real-world projects.<br><br>⚡ Fun fact<br><br>🎮 I enjoy turning complex problems into simple UI solutions and optimizing things that already “work”.
+
 
 
 ## 🌐 Socials:
